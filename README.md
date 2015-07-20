@@ -1,2 +1,2 @@
 # personal-site
-My personal site that will run on some hypothetical future server.
+A site that I am using to test my nodejs projects.
